@@ -9,6 +9,8 @@ nginx:1.25.5
 mysql:8.0
 mysql:5.7
 redis
+rabbitmq
+
 
 
 
