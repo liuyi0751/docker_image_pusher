@@ -10,7 +10,7 @@ mysql:8.0
 mysql:5.7
 redis
 rabbitmq
-
+mongo
 
 
 
