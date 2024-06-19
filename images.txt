@@ -7,4 +7,6 @@ nginx
 nginx:1.26.0
 nginx:1.25.5
 mysql:8.0
+redis
+mongodb
 
